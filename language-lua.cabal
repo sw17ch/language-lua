@@ -38,6 +38,7 @@ Library
                      Language.Lua.Syntax
                      Language.Lua.Parser
                      Language.Lua.PrettyPrinter
+                     Language.Lua.MinPrinter
                      Language.Lua.Annotated
                      Language.Lua.Annotated.Syntax
                      Language.Lua.Annotated.Parser
